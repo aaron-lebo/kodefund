@@ -1,14 +1,4 @@
-codestarter
+kodefund
 ===========
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Code base for what was kodefund.com, a short-lived attempt at setting up a Kickstarter-esque site for open source projects
